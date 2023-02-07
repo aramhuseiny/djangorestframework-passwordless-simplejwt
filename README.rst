@@ -26,3 +26,22 @@ Framework <http://www.django-rest-framework.org/>`__.
 
 For full documentation, visit `django-rest-framework-simplejwt.readthedocs.io
 <https://django-rest-framework-simplejwt.readthedocs.io/en/latest/>`__.
+
+
+Description
+--------
+This package is a fork of `django-rest-framework-simplejwt.readthedocs.io
+<https://django-rest-framework-simplejwt.readthedocs.io/en/latest/>`__.
+In this extension I add passwordless mecanism based on calling an API.
+In the provided aendpoint developer have to define how he/she want to handle passwordless.
+
+You onle need add this line to your settings.py file in base project.
+
+
+`OTP_CONFIGS ={
+    'base_url': "https://example.com/api/send.json",
+    'receptor_key': "receptor",
+    'message_key': "message",
+}`
+
+`receptor_key` is the value of receptor key in endpoint side.

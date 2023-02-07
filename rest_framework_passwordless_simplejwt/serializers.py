@@ -216,8 +216,7 @@ class SendCodeSerializer(serializers.Serializer):
             base_url = settings.OTP_CONFIGS['base_url']
             receptor_key = settings.OTP_CONFIGS['receptor_key']
             message_key = settings.OTP_CONFIGS['message_key']
-            # receptor = f"receptor={self.user.mobile}"
-            #message = f"message={self.user.otp}"
+            
             url = base_url
             param = { f"{receptor_key}": f"{self.user.mobile}", f"{message_key}": f"{self.user.otp}" }
             req = requests.get(url, params=param)
