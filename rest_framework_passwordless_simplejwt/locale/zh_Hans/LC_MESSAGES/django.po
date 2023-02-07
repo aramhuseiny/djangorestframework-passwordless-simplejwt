@@ -4,7 +4,7 @@
 # zengqiu <zengqiu@qq.com>, 2021.
 msgid ""
 msgstr ""
-"Project-Id-Version: djangorestframework_simplejwt\n"
+"Project-Id-Version: djangorestframework_passwordless_simplejwt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-23 13:29+0800\n"
 "PO-Revision-Date: 2021-06-23 13:29+080\n"

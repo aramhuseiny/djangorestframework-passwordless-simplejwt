@@ -45,8 +45,8 @@ extras_require["dev"] = (
 
 
 setup(
-    name="djangorestframework_simplejwt",
-    use_scm_version={"version_scheme": "post-release"},
+    name="djangorestframework_passwordless_simplejwt",
+    version="1.0.0",#{"version_scheme": "post-release"},
     setup_requires=["setuptools_scm"],
     url="https://github.com/jazzband/djangorestframework-simplejwt",
     license="MIT",

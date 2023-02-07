@@ -2,7 +2,7 @@
 # FIRST AUTHOR <suayip.541@gmail.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: djangorestframework_simplejwt\n"
+"Project-Id-Version: djangorestframework_passwordless_simplejwt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-13 23:05+0300\n"
 "Last-Translator: Şuayip Üzülmez <suayip.541@gmail.com>\n"

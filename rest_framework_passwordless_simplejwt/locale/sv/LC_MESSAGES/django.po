@@ -2,7 +2,7 @@
 # FIRST AUTHOR Pasindu <pasinduprabashitha@gmail.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: djangorestframework_simplejwt\n"
+"Project-Id-Version: djangorestframework_passwordless_simplejwt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-29 17:30+0100\n"
 "Last-Translator: Pasindu <pasinduprabashitha@gmail.com>\n"

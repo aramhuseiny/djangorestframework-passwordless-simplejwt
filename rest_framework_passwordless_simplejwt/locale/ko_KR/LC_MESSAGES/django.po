@@ -2,7 +2,7 @@
 # FIRST AUTHOR 양영광 <immutable000@gmail.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: djangorestframework_simplejwt\n"
+"Project-Id-Version: djangorestframework_passwordless_simplejwt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-05 06:48+0900\n"
 "Last-Translator: 양영광 <immutable000@gmail.com>\n"

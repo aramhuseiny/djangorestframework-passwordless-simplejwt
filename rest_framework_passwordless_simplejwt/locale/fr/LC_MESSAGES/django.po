@@ -2,7 +2,7 @@
 # FIRST AUTHOR <stephane.maltaesousa@ne.ch>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: djangorestframework_simplejwt\n"
+"Project-Id-Version: djangorestframework_passwordless_simplejwt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 17:30+0100\n"
 "Last-Translator: Stéphane Malta e Sousa <stephane.maltaesousa@ne.ch>\n"
