@@ -31,7 +31,8 @@ For full documentation, visit `django-rest-framework-simplejwt.readthedocs.io
 Description
 --------
 This package is a fork of `django-rest-framework-simplejwt.readthedocs.io
-<https://django-rest-framework-simplejwt.readthedocs.io/en/latest/>`__.
+<https://django-rest-framework-simplejwt.readthedocs.io/en/latest/>`__. To prevent conflict in package name I rename the package name to `djangorestframework-passwordless-simplejwt`.
+So all the configuration for the base package can be use. You need only use new name as `app_name`.
 In this extension I add passwordless mecanism based on calling an API.
 In the provided aendpoint developer have to define how he/she want to handle passwordless.
 
