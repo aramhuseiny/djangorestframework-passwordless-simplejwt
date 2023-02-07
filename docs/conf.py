@@ -72,8 +72,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "Simple JWT"
-copyright = "2020, David Sanders"
+project = "Simple Passwordless JWT"
+copyright = "2022, Hedi"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
