@@ -46,14 +46,15 @@ extras_require["dev"] = (
 
 setup(
     name="djangorestframework_passwordless_simplejwt",
-    version="1.0.0",#{"version_scheme": "post-release"},
-    setup_requires=["setuptools_scm"],
-    url="https://github.com/jazzband/djangorestframework-simplejwt",
+    version="1.0.1",
+    # use_scm_version={"version_scheme": "post-release"},
+    # setup_requires=["setuptools_scm"],
+    url="https://github.com/aramhuseiny/djangorestframework-passwordless-simplejwt",
     license="MIT",
     description="A minimal JSON Web Token authentication plugin for Django REST Framework",
     long_description=Path("README.rst").read_text(encoding="utf-8"),
-    author="David Sanders",
-    author_email="davesque@gmail.com",
+    author="Aram Huseiny",
+    author_email="huseiny.aram@gmail.com",
     install_requires=[
         "django",
         "djangorestframework",
